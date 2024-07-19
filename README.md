@@ -1,16 +1,15 @@
 # chat_app
 
-A new Flutter project.
+Nombre: Erika Alvarado.
 
-## Getting Started
+## link despliegue en web: https://chat-app-1c8d1.web.app/
+## link apk : https://drive.google.com/file/d/17ARNh-hOEDOQnv9tbw64HXmx34Etk4bA/view?usp=sharing 
 
-This project is a starting point for a Flutter application.
+Instrucciones:
+Implementar una aplicación tipo chat que permita enviar mensajes y también la ubicación.
+aplicaciones seleccionadas de: https://flutter.github.io/samples/#
+Evidencia del Desarrollo:
+![image](https://github.com/user-attachments/assets/2ee11652-034b-45cf-b097-886b8921bfc9)
+![image](https://github.com/user-attachments/assets/33079fd1-4d4d-4fa5-94d6-98a0435574b9)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
